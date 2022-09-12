@@ -53,11 +53,15 @@ div{
 }
 
 .blue{
+    color: #C4C4C4;
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
     border-bottom: 2px;
     border-left: 5px;
+}
+
+.blue h2{
     color: #C4C4C4;
 }
 
